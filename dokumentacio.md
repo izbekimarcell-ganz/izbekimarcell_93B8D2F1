@@ -8,7 +8,7 @@ A cél a szerverek működésének, a HTTP kérések és válaszok kezelésének
 **Téma:** „EcoPulse API” – az előző frontend projekt (1C7A5B3E) háttér API-jának kezdetleges prototípusa,  
 amely a környezettudatos felhasználói információkat szolgáltatja.
 
-> **Megjegyzés:** A projekt téma választáshoz és az elkezdéshez ChatGPT volt használva.
+> **Megjegyzés:** A projekt elkezdéséhez és aprojekt dokumentációjának a vázlatához segítségül volt használva a ChatGPT. Egy képet beküldtem a feladatról és a kérdés így szólt:"Segíts elkezdeni és egy vázlatot adjál a dokumentációhoz".
 
 ---
 

@@ -1,0 +1,16 @@
+{
+  "name": "ecopulse-api",
+  "version": "1.0.0",
+  "description": "EcoPulse API - Backend mini projekt egy egyszerű GET szerver",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}

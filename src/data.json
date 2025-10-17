@@ -1,0 +1,38 @@
+{
+  "ecoTips": [
+    {
+      "id": 1,
+      "title": "Energiatakarékos LED izzók",
+      "description": "Válts LED izzókra, akár 80%-os energiamegtakarítást érhetsz el.",
+      "category": "energia",
+      "impact": "magas"
+    },
+    {
+      "id": 2,
+      "title": "Újrahasznosítás",
+      "description": "Válogasd szelektíven a hulladékot és használd újra a lehetőségeid szerint.",
+      "category": "hulladek",
+      "impact": "közepes"
+    },
+    {
+      "id": 3,
+      "title": "Tömegközlekedés használata",
+      "description": "Használj tömegközlekedést vagy biciklit az autó helyett.",
+      "category": "kozlekedes",
+      "impact": "magas"
+    },
+    {
+      "id": 4,
+      "title": "Vízmegtakarítás",
+      "description": "Zárj el a csapot fogmosás közben és használj víztakarékos zuhanyfejt.",
+      "category": "viz",
+      "impact": "közepes"
+    }
+  ],
+  "stats": {
+    "totalUsers": 1250,
+    "co2Saved": "2.4 tonna",
+    "energySaved": "15,680 kWh",
+    "lastUpdated": "2025-10-17"
+  }
+}
